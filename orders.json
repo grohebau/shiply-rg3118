@@ -1,0 +1,47 @@
+{
+  "SE428152763DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Martin Alfons Eibl, Ulmenstraße 49, 27570 Bremerhaven, Deutschland",
+    "receiver": "Svante Nilsson, Granbacken 16, 168 69 Bromma, Schweden",
+    "price": "4.000,00 €",
+    "description": "Hersteller: BMW<br>Typ: K100 RS<br>Fahrgestelnummer: WB10503XEZ0140488<br>Erstzulassung: 23/04/1984<br>KM laut Vorbesitzer: 64.995 km<br>Leistung: 66 kW<br>Hubraum: 980 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Im Lieferumfang enthalten sind die originalen Fahrzeugteile (Gabel, Räder, Verkleidung usw., außer Lenker) sowie vier Koffer inklusive Halterungen.",
+    "address": "Svante Nilsson<br>Måttbandsvägen 3A<br>187 66 Täby<br>Schweden<br>Telefon: +46 705890454",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28.04.2026",
+    "deliveryDate": "05.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Måttbandsvägen 3A",
+      "postal_code": "187 66",
+      "city": "Täby",
+      "country": "Schweden",
+      "lat": "59.46575519125818",
+      "lng": "18.129888697752428"
+    }
+  }
+}
