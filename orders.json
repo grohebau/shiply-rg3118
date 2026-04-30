@@ -1,6 +1,6 @@
 {
   "SE428152763DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Martin Alfons Eibl, Ulmenstraße 49, 27570 Bremerhaven, Deutschland",
     "receiver": "Svante Nilsson, Granbacken 16, 168 69 Bromma, Schweden",
@@ -28,10 +28,10 @@
     "orderDate": "28.04.2026",
     "deliveryDate": "05.05.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Sebenter Weg 10",
+      "postal_code": "23758",
+      "city": "Oldenburg in Holstein",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
